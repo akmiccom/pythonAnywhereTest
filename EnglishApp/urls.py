@@ -1,7 +1,7 @@
 from django.urls import path
-from EnglishApp.views import index
+from EnglishApp.views import english
 
 
 urlpatterns = [
-    path('', index, name='index'),
+    path('', english, name='english'),
 ]

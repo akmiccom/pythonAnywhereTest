@@ -26,5 +26,5 @@ html = markdown.markdown(
     extension_configs=extension_configs,
     )
 
-def index(request):
+def english(request):
     return HttpResponse(html)
