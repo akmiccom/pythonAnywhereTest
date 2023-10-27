@@ -13,7 +13,7 @@ html = '''
     <h2>アップデートのテスト ➡ 構築を手動でやってみる</h2>
     <h2>アップデートのテスト ➡ git pull</h2>
         <div>
-            <h1><a href="/">Django Girls Blog</a></h1>
+            <h1><a href="">Django Girls Blog</a></h1>
         </div>
 
         <div>
